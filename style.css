@@ -177,6 +177,10 @@ a {
 .lang__text{
     color:#7e7e82;
 }
+.menu__p{
+    font-weight: 700;
+    font-size: 22px;
+}
 
 .lang__radio input:checked + .lang__text {
     color: black;
